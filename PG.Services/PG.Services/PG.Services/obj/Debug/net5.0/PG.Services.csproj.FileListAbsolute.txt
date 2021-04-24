@@ -1,0 +1,12 @@
+c:\Users\rinng\Desktop\PG\PG.Services\PG.Services\PG.Services\bin\Debug\net5.0\PG.Services.deps.json
+c:\Users\rinng\Desktop\PG\PG.Services\PG.Services\PG.Services\bin\Debug\net5.0\PG.Services.dll
+c:\Users\rinng\Desktop\PG\PG.Services\PG.Services\PG.Services\bin\Debug\net5.0\ref\PG.Services.dll
+c:\Users\rinng\Desktop\PG\PG.Services\PG.Services\PG.Services\bin\Debug\net5.0\PG.Services.pdb
+c:\Users\rinng\Desktop\PG\PG.Services\PG.Services\PG.Services\obj\Debug\net5.0\PG.Services.csprojAssemblyReference.cache
+c:\Users\rinng\Desktop\PG\PG.Services\PG.Services\PG.Services\obj\Debug\net5.0\PG.Services.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\rinng\Desktop\PG\PG.Services\PG.Services\PG.Services\obj\Debug\net5.0\PG.Services.AssemblyInfoInputs.cache
+c:\Users\rinng\Desktop\PG\PG.Services\PG.Services\PG.Services\obj\Debug\net5.0\PG.Services.AssemblyInfo.cs
+c:\Users\rinng\Desktop\PG\PG.Services\PG.Services\PG.Services\obj\Debug\net5.0\PG.Services.csproj.CoreCompileInputs.cache
+c:\Users\rinng\Desktop\PG\PG.Services\PG.Services\PG.Services\obj\Debug\net5.0\PG.Services.dll
+c:\Users\rinng\Desktop\PG\PG.Services\PG.Services\PG.Services\obj\Debug\net5.0\ref\PG.Services.dll
+c:\Users\rinng\Desktop\PG\PG.Services\PG.Services\PG.Services\obj\Debug\net5.0\PG.Services.pdb

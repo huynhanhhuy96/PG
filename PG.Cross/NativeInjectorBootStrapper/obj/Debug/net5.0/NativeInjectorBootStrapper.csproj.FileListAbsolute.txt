@@ -1,0 +1,17 @@
+C:\Users\rinng\Desktop\PG\PG.Cross\NativeInjectorBootStrapper\obj\Debug\net5.0\NativeInjectorBootStrapper.csprojAssemblyReference.cache
+C:\Users\rinng\Desktop\PG\PG.Cross\NativeInjectorBootStrapper\obj\Debug\net5.0\NativeInjectorBootStrapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rinng\Desktop\PG\PG.Cross\NativeInjectorBootStrapper\obj\Debug\net5.0\NativeInjectorBootStrapper.AssemblyInfoInputs.cache
+C:\Users\rinng\Desktop\PG\PG.Cross\NativeInjectorBootStrapper\obj\Debug\net5.0\NativeInjectorBootStrapper.AssemblyInfo.cs
+C:\Users\rinng\Desktop\PG\PG.Cross\NativeInjectorBootStrapper\obj\Debug\net5.0\NativeInjectorBootStrapper.csproj.CoreCompileInputs.cache
+C:\Users\rinng\Desktop\PG\PG.Cross\NativeInjectorBootStrapper\bin\Debug\net5.0\NativeInjectorBootStrapper.deps.json
+C:\Users\rinng\Desktop\PG\PG.Cross\NativeInjectorBootStrapper\bin\Debug\net5.0\NativeInjectorBootStrapper.dll
+C:\Users\rinng\Desktop\PG\PG.Cross\NativeInjectorBootStrapper\bin\Debug\net5.0\ref\NativeInjectorBootStrapper.dll
+C:\Users\rinng\Desktop\PG\PG.Cross\NativeInjectorBootStrapper\bin\Debug\net5.0\NativeInjectorBootStrapper.pdb
+C:\Users\rinng\Desktop\PG\PG.Cross\NativeInjectorBootStrapper\bin\Debug\net5.0\PG.Core.dll
+C:\Users\rinng\Desktop\PG\PG.Cross\NativeInjectorBootStrapper\bin\Debug\net5.0\PG.Repo.dll
+C:\Users\rinng\Desktop\PG\PG.Cross\NativeInjectorBootStrapper\bin\Debug\net5.0\PG.Repo.pdb
+C:\Users\rinng\Desktop\PG\PG.Cross\NativeInjectorBootStrapper\bin\Debug\net5.0\PG.Core.pdb
+C:\Users\rinng\Desktop\PG\PG.Cross\NativeInjectorBootStrapper\obj\Debug\net5.0\NativeInjectorBootStrapper.csproj.CopyComplete
+C:\Users\rinng\Desktop\PG\PG.Cross\NativeInjectorBootStrapper\obj\Debug\net5.0\NativeInjectorBootStrapper.dll
+C:\Users\rinng\Desktop\PG\PG.Cross\NativeInjectorBootStrapper\obj\Debug\net5.0\ref\NativeInjectorBootStrapper.dll
+C:\Users\rinng\Desktop\PG\PG.Cross\NativeInjectorBootStrapper\obj\Debug\net5.0\NativeInjectorBootStrapper.pdb
