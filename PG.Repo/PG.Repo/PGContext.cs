@@ -11,7 +11,6 @@ namespace PG.Repo
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder: modelBuilder);
-
             // modelBuilder.ApplyConfiguration(configuration: new UserEntityTypeConfiguration());
         }
     }
